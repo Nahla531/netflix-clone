@@ -20,6 +20,10 @@ Resource :https://create-react-app.dev/docs/getting-started
  
  - npm install
  - npm start
+ 
+**note** 
+
+You have to add your firbase.js file and add the config from your firebase account
 
 
 link : https://netflix-clone-aa650.firebaseapp.com/

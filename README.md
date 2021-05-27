@@ -20,3 +20,6 @@ Resource :https://create-react-app.dev/docs/getting-started
  
  - npm install
  - npm start
+
+
+link : https://netflix-clone-aa650.firebaseapp.com/
